@@ -46,10 +46,12 @@ Freestyle Player-Balancing: A Novel Flexible Framework for Addressing Game Balan
 and Opening Memorization in Decisive, Two-Player, Perfect-Information, Turn-Based Games
 
 https://zenodo.org/records/21687566
+
 ---
 More links, 
 
 Reddit Cusp Chess community: https://www.reddit.com/r/CuspChess
 
 Engine games videos on YouTube: https://www.youtube.com/@hahachess
+
 ---
