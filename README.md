@@ -41,7 +41,15 @@ python main.py
 ```
 ---
 For more information, check the rulebook and my 26-page preprint paper:
+
 Freestyle Player-Balancing: A Novel Flexible Framework for Addressing Game Balance 
 and Opening Memorization in Decisive, Two-Player, Perfect-Information, Turn-Based Games
+
 https://zenodo.org/records/21687566
+---
+More links, 
+
+Reddit Cusp Chess community: https://www.reddit.com/r/CuspChess
+
+Engine games videos on YouTube: https://www.youtube.com/@hahachess
 ---
