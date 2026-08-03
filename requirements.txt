@@ -1,0 +1,4 @@
+cchess
+Pillow
+pygame
+regex
