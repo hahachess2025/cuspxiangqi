@@ -13,6 +13,11 @@ victory detection, and a graphical interface.
 It also supports xiangqi engine like Pikafish that +1 means 50% win rate.
 
 ---
+
+you can just [Download the Latest Release](https://github.com/hahachess2025/cuspxiangqi/releases/download/v1.0.0/CuspXiangqiGUI-v1.0-Windows.zip) and enjoy. or run the python code.
+
+---
+
 ## Requirements
 
 - Python 3. Developed using Python 3.10. Other recent Python 3 versions may also work.
