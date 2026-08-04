@@ -29,7 +29,8 @@ class ChessEngine:
 
     def run(self):
         try:
-            self.engine = cchess.engine.SimpleEngine.popen_uci(self.engine_path)
+            self.engine = cchess.engine.SimpleEngine.popen_uci(self.engine_path,
+                                 creationflags=subprocess.CREATE_NO_WINDOW)
             self.engine.configure({"Hash": 512, "Threads": 1, })
         except Exception as e:
             logger.exception(f"engine initialization error {self.engine_path}")
