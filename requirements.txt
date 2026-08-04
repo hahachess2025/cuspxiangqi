@@ -1,4 +1,3 @@
-cchess
 Pillow
 pygame
 regex
