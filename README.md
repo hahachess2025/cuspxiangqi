@@ -14,7 +14,7 @@ It also supports xiangqi engine like Pikafish that +1 means 50% win rate.
 
 ---
 
-[Download the Cusp Xiangqi Rulebook pdf]Documents/Cusp%20Xiangqi%20Rulebook.pdf
+[Download the Cusp Xiangqi Rulebook pdf](Documents/Cusp%20Xiangqi%20Rulebook.pdf)
 [Download the Latest Cusp Xiangqi GUI Release for Windows](https://github.com/hahachess2025/cuspxiangqi/releases/download/v1.0.0/CuspXiangqiGUI-v1.0-Windows.zip)
 
 ---
