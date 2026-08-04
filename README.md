@@ -16,7 +16,7 @@ It also supports xiangqi engine like Pikafish that +1 means 50% win rate.
 ## Requirements
 
 - Python 3. Developed using Python 3.10. Other recent Python 3 versions may also work.
-- python-cchess
+- python-cchess. you need to download it from here https://github.com/windshadow233/python-chinese-chess.
 - pygame
 - Pillow
 - regex
